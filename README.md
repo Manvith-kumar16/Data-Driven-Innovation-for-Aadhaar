@@ -92,9 +92,3 @@ The composite decision framework serves as a monitoring tool to classify states 
 ---
 
 **Note:** This project was developed as part of the UIDAI Data Hackathon 2026.
-
-```
-
-Would you like me to help you draft the **Conclusion** or **Future Scope** section to round out the repository?
-
-```
